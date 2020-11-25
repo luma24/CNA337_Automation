@@ -1,3 +1,5 @@
+import os
+
 class Server:
     """ Server class for representing and manipulating servers. """
 
